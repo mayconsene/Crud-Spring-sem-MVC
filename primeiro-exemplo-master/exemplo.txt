@@ -1,0 +1,15 @@
+Objetivo:
+
+Criar uma API REstfull para controle de produtos
+
+Modelo OK
+    Produto: id, nome, quantidade, valor, observacao
+
+Repositório de produto OK
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Serviço de Produto OK
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Controller de produto OK
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
